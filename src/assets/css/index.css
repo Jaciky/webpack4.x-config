@@ -1,0 +1,12 @@
+#app{
+  color:#f00;
+  width:200px;
+  height:200px;
+  border:1px solid #dddddd;
+  background: url(../images/picture.jpg)
+}
+
+.dss{
+  color:#99d;
+  border:1px solid #d00;
+}
