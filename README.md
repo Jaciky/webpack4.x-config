@@ -16,7 +16,7 @@
 - CommonJS require() 语句
 - AMD define 和 `require` 语句
 - css/sass/less 文件中的 `@import` 语句。
-- 样式(url(...))或 HTML 文件(<img src=...>)中的图片链接(image url)
+- 样式(`url(...)`)或 HTML 文件(`<img src=...>`)中的图片链接(`image url`)
 
 ### webpack 4个核心概念
 
@@ -103,8 +103,5 @@ module.exports = {
   ]
 };
 ```
-<<<<<<< HEAD
- 至此，webpack 基本概念基本阐述完成，现在，请移步这里：
-=======
- 至此，webpack 基本概念基本阐述完成，现在，请移步这里：
->>>>>>> e77fec309a5b81f64420cd5004f4dd06981c2d59
+至此，webpack 基本概念基本阐述完成，现在，请移步这里：
+
