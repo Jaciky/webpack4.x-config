@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ![](./static/webpack.png)
+=======
+![](./statics/webpack.png)
+>>>>>>> e77fec309a5b81f64420cd5004f4dd06981c2d59
 
 ### webpack 概念
 
@@ -103,4 +107,8 @@ module.exports = {
   ]
 };
 ```
+<<<<<<< HEAD
  至此，webpack 基本概念基本阐述完成，现在，请移步这里：
+=======
+ 至此，webpack 基本概念基本阐述完成，现在，请移步这里：
+>>>>>>> e77fec309a5b81f64420cd5004f4dd06981c2d59
