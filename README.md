@@ -1,4 +1,4 @@
-![](./static/webpack.png)
+![](./statics/webpack.png)
 
 ### webpack 概念
 
