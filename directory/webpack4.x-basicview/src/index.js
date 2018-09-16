@@ -1,8 +1,7 @@
-import './assets/css/index.css';
-import './assets/less/base.less';
-import Person from './test.js';
-// import Vue from 'vue';
+import Vue from 'vue'
+// import App from './App.vue'
 
-var p = new Person();
-
-p.showMess()
+// new Vue({
+//   render: h => h(App)
+// }).$mount('#app')
+console.log('hhh')
